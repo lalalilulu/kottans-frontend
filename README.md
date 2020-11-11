@@ -13,14 +13,22 @@ Great mix of theory and practice for beginners
 ![Module_1](task_linux_cli/screenshot1.JPG) ![Module_2](task_linux_cli/screenshot2.JPG)
 ![Module_3](task_linux_cli/screenshot3.JPG) ![Module_4](task_linux_cli/screenshot4.JPG)
 
-
 ## Git Collaboration
 
 ![Main Section](task_git_collaboration/main.JPG) ![Remote Section](task_git_collaboration/remote.JPG)
-
+<br>
 **what was new:** cherry-pick command<br>
 **what surprised:** additional arguments <source:destination> for push/fetch/pull commands<br>
 **what can be used in future:** interactive mode for rebase, cherry-pick command<br>
+
+## Intro to HTML and CSS
+![Intro to HTML & CSS](task_html_css_intro/intro.JPG)
+![Learn HTML](task_html_css_intro/learnHTML.JPG)
+![Learn CSS](task_html_css_intro/learnCSS.JPG)
+<br>
+**what was new:** layout with Flexbox, Grid Template<br>
+**what surprised:** relative units - fr, css transitions<br>
+**what can be used in future:** grid, of course :)<br>
 
 ### Additional info
 
