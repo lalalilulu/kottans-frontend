@@ -12,8 +12,8 @@ Great mix of theory and practice for beginners
 The screenshots can be found [here](task_linux_cli)<br>
 
 ## Git Collaboration
-1) The course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) finished<br>
-2) The Levels 'Main: Ramping Up, Moving Work Around' and 'Remote: To Origin and Beyond' at [learngitbranching.js.org](https://learngitbranching.js.org/) completed<br>
+The course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456) finished<br>
+The Levels 'Main: Ramping Up, Moving Work Around' and 'Remote: To Origin and Beyond' at [learngitbranching.js.org](https://learngitbranching.js.org/) completed<br>
 The screenshots can be found [here](task_git_collaboration)<br>
 **what was new:** cherry-pick command<br>
 **what surprised:** additional arguments <source:destination> for push/fetch/pull commands<br>
@@ -27,8 +27,8 @@ The screenshots can be found [here](task_html_css_intro)<br>
 **what can be used in future:** grid, of course :)<br>
 
 ## Responsive Web Design
-1) The course [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) finished<br>
-2) [Flexbox Froggy Game](http://flexboxfroggy.com/) accomplished<br>
+The course [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) finished<br>
+[Flexbox Froggy Game](http://flexboxfroggy.com/) accomplished<br>
 The screenshots can be found [here](task_responsive_web_design)<br>
 **what was new:** Common responsive patterns, picking breakpoints<br>
 **what surprised:** complex media queries, setting the viewport<br>
