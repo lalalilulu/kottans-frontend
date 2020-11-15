@@ -30,6 +30,13 @@ Great mix of theory and practice for beginners
 **what surprised:** relative units - fr, css transitions<br>
 **what can be used in future:** grid, of course :)<br>
 
+## Responsive Web Design
+The screenshots can be found [here](task_responsive_web_design)
+<br>
+**what was new:** Common responsive patterns, picking breakpoints<br>
+**what surprised:** complex media queries, setting the viewport<br>
+**what can be used in future:** flexbox css properties and relative sizes<br>
+
 ### Additional info
 
 ➡️ Read course plan in [Course Contents](https://github.com/kottans/frontend/blob/master/contents.md)
