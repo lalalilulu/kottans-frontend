@@ -34,6 +34,10 @@ The screenshots can be found [here](task_responsive_web_design)<br>
 **what surprised:** complex media queries, setting the viewport<br>
 **what can be used in future:** flexbox css properties and relative sizes<br>
 
+## HTML & CSS practice: Hooli-style Popup
+It was complicated to put together knowledge about HTML, CSS and their features and fit the task without using JS. 
+My solution: https://lalalilulu.github.io/html-css-popup/ 
+
 ### Additional info
 
 ➡️ Read course plan in [Course Contents](https://github.com/kottans/frontend/blob/master/contents.md)
