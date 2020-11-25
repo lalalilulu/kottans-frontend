@@ -37,6 +37,14 @@ The screenshots can be found [here](task_responsive_web_design)<br>
 ## HTML & CSS practice: Hooli-style Popup
 It was complicated to put together knowledge about HTML, CSS and their features and fit the task without using JS. 
 My solution: https://lalalilulu.github.io/html-css-popup/ 
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/146
+
+## JS Basics
+The course [Intro to JS](https://classroom.udacity.com/courses/ud803) finished<br>
+The FreeCodeCamp exercises completed<br>
+The screenshots can be found [here](task_js_basics)<br>
+Most of the covered topics were not new for me, but a lot of FreeCodeCamp exercises made me feel more confident with JS Syntax. 
+Special thanks for the section with algorithms - it took many hours, but it was incredibly helpful.
 
 ### Additional info
 
