@@ -32,11 +32,11 @@ The course [Responsive Web Design Fundamentals](https://www.udacity.com/course/r
 The screenshots can be found [here](task_responsive_web_design)<br>
 **what was new:** Common responsive patterns, picking breakpoints<br>
 **what surprised:** complex media queries, setting the viewport<br>
-**what can be used in future:** flexbox css properties and relative sizes<br>
+**what can be used in future:** flexbox css properties and relative sizes
 
 ## HTML & CSS practice: Hooli-style Popup
 It was complicated to put together knowledge about HTML, CSS and their features and fit the task without using JS. 
-My solution: https://lalalilulu.github.io/html-css-popup/ 
+The task on GitHub Pages: https://lalalilulu.github.io/html-css-popup/<br> 
 A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/146
 
 ## JS Basics
@@ -45,6 +45,13 @@ The FreeCodeCamp exercises completed<br>
 The screenshots can be found [here](task_js_basics)<br>
 Most of the covered topics were not new for me, but a lot of FreeCodeCamp exercises made me feel more confident with JS Syntax. 
 Special thanks for the section with algorithms - it took many hours, but it was incredibly helpful.
+
+## DOM
+The course [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117) finished<br>
+The FreeCodeCamp exercises completed<br>
+The screenshots can be found [here](task_js_dom)<br>
+A practical task/ interactive side-menu's site on GitHub Pages: https://lalalilulu.github.io/interactive-side-menu/<br>
+A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/193
 
 ### Additional info
 
