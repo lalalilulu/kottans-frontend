@@ -53,6 +53,11 @@ The screenshots can be found [here](task_js_dom)<br>
 A practical task/ interactive side-menu's site on GitHub Pages: https://lalalilulu.github.io/interactive-side-menu/<br>
 A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/193
 
+## JS Pre OOP
+Building a Tiny JS World task completed<br>
+A practical task on GitHub Pages: https://lalalilulu.github.io/a-tiny-JS-world/<br>
+A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/200
+
 ### Additional info
 
 ➡️ Read course plan in [Course Contents](https://github.com/kottans/frontend/blob/master/contents.md)
