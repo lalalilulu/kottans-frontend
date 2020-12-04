@@ -51,12 +51,23 @@ The course [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 The FreeCodeCamp exercises completed<br>
 The screenshots can be found [here](task_js_dom)<br>
 A practical task/ interactive side-menu's site on GitHub Pages: https://lalalilulu.github.io/interactive-side-menu/<br>
-A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/193
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/193
 
 ## JS Pre OOP
 Building a Tiny JS World task completed<br>
 A practical task on GitHub Pages: https://lalalilulu.github.io/a-tiny-JS-world/<br>
 A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/200
+
+## Object Oriented JS
+The course [Object-Oriented Java Script](https://classroom.udacity.com/courses/ud015) finished<br>
+7 kyu on the codewars reached - [my profile](https://www.codewars.com/users/lalalilulu)<br>
+The screenshots can be found [here](task_js_oop)<br>
+**what was new:** The udacity course covers the basic OOP concepts in JS, the functional version, prototzpal classes and pseudoclassical pattern are analyzed in detail<br>
+**what surprised:** Pseudoclassical pattern: the complexity of implementing subclasses<br>
+**what can be used in future:** Modern JavaScript has a new, "nicer" syntax for classes. The new class construct has a convenient syntax for specifying a constructor along with a prototype.<br>
+
+A practical task on GitHub Pages - [my frogger game](https://lalalilulu.github.io/frontend-nanodegree-arcade-game/) <br>
+A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/209
 
 ### Additional info
 
