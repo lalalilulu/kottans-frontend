@@ -58,7 +58,7 @@ Building a Tiny JS World task completed<br>
 A practical task on GitHub Pages: https://lalalilulu.github.io/a-tiny-JS-world/<br>
 A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/200
 
-## Object Oriented JS/ Code Review in Progress
+## Object Oriented JS
 The course [Object-Oriented Java Script](https://classroom.udacity.com/courses/ud015) finished<br>
 7 kyu on the codewars reached - [my profile](https://www.codewars.com/users/lalalilulu) <br>
 The screenshots can be found [here](task_js_oop)<br>
@@ -67,19 +67,19 @@ The screenshots can be found [here](task_js_oop)<br>
 **what can be used in future:** Modern JavaScript has a new, "nicer" syntax for classes. The new class construct has a convenient syntax for specifying a constructor along with a prototype.<br>
 
 A practical task on GitHub Pages - [my frogger game](https://lalalilulu.github.io/frontend-nanodegree-arcade-game/) <br>
-A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/209
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/209
 
-## OOP Exercise/ Code Review in Progress
+## OOP Exercise
 A Tiny JS World task improved<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/a-tiny-JS-world/) <br>
-A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/235
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/235
 
-## Offline Web Applications in Progress
-The course [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) in progress...<br>
+## Offline Web Applications
+The course [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) finished<br>
 The screenshots can be found [here](task_offline_web_app)<br>
-**what was new:** <br>
-**what surprised:** <br>
-**what can be used in future:** <br>
+**what was new:** Offline-first pattern and its benefits, Lie Fi Mode, using a service worker<br>
+**what surprised:** How to simulate offline mode and inspect and debug a service worker with Chrome DevTools, offline caching strategy<br>
+**what can be used in future:** IDB library, offline caching strategy<br>
 
 ### Additional info
 
