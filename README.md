@@ -74,12 +74,24 @@ A Tiny JS World task improved<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/a-tiny-JS-world/) <br>
 A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/235
 
-## Offline Web Applications
+## Offline Web Applications (optional)
 The course [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) finished<br>
 The screenshots can be found [here](task_offline_web_app)<br>
 **what was new:** Offline-first pattern and its benefits, Lie Fi Mode, using a service worker<br>
 **what surprised:** How to simulate offline mode and inspect and debug a service worker with Chrome DevTools, offline caching strategy<br>
 **what can be used in future:** IDB library, offline caching strategy<br>
+
+## Memory Pair Game in Progress
+Memory Pair Game created<br>
+A practical task [on GitHub Pages](https://lalalilulu.github.io/memory-pair-game/) published<br>
+A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/278
+
+## Website Performance Optimization (optional) in Progress
+The screenshots can be found [here](task_website_performance)<br>
+**what was new:** <br>
+**what surprised:** <br>
+**what can be used in future:** <br>
+task_website_performance
 
 ### Additional info
 
