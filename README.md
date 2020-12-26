@@ -81,17 +81,21 @@ The screenshots can be found [here](task_offline_web_app)<br>
 **what surprised:** How to simulate offline mode and inspect and debug a service worker with Chrome DevTools, offline caching strategy<br>
 **what can be used in future:** IDB library, offline caching strategy<br>
 
-## Memory Pair Game in Progress
+## Memory Pair Game
 Memory Pair Game created<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/memory-pair-game/) published<br>
-A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/278
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/278
 
 ## Website Performance Optimization (optional) in Progress
 The screenshots can be found [here](task_website_performance)<br>
 **what was new:** <br>
 **what surprised:** <br>
 **what can be used in future:** <br>
-task_website_performance
+
+## Friends App in Progress
+Social friends' search page created<br>
+A practical task [on GitHub Pages](https://lalalilulu.github.io/friends-app/) published<br>
+A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/358
 
 ### Additional info
 
