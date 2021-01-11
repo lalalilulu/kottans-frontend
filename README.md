@@ -86,16 +86,10 @@ Memory Pair Game created<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/memory-pair-game/) published<br>
 A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/278
 
-## Website Performance Optimization (optional) in Progress
-The screenshots can be found [here](task_website_performance)<br>
-**what was new:** <br>
-**what surprised:** <br>
-**what can be used in future:** <br>
-
-## Friends App in Progress
+## Friends App
 Social friends' search page created<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/friends-app/) published<br>
-A Code review for the task in progress: https://github.com/kottans/frontend-2021-homeworks/pull/358
+A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/358
 
 ### Additional info
 
