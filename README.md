@@ -86,6 +86,14 @@ Memory Pair Game created<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/memory-pair-game/) published<br>
 A Code review for the task completed: https://github.com/kottans/frontend-2021-homeworks/pull/278
 
+## Website Performance Optimization (optional)
+The courses [Website Performance Optimization](https://classroom.udacity.com/courses/ud884), 
+[Browser Rendering Optimization](https://www.udacity.com/courses/ud860) and [Responsive Images](https://www.udacity.com/courses/ud882) finished<br>
+The screenshots can be found [here](task_website_performance)<br>
+**what was new:** Recommendations how to measure the web sites performance with Chrome Dev Tools, settings for Android devices, CRP metrics and CRP Diagrams, unblocking CSS, Quantum CSS, memory management in JS, 60 frames pro second<br>
+**what surprised:** the box-shadow effect has the biggest impact on loading time, srcset and sizes image attributes<br>
+**what can be used in future:** defer and async attributes, media queires for css links, optimization strategies, async/await, css-property 'will-change: transform', vmax and vmin css units, Grunt for image compression, inline images to reduce an amount of requests<br>
+
 ## Friends App
 Social friends' search page created<br>
 A practical task [on GitHub Pages](https://lalalilulu.github.io/friends-app/) published<br>
